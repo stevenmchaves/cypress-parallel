@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: stevenmchaves/cypress-parallel
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
   owner: stevenmchaves
